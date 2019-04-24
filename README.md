@@ -1,2 +1,2 @@
 # anti-kai.com
-archive.
+a github repository.
